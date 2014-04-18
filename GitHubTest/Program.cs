@@ -11,6 +11,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("main app");
+            Console.WriteLine("master after branch 1");
         }
     }
 }
