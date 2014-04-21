@@ -13,6 +13,8 @@ namespace GitHubTest
             Console.WriteLine("main app");
             Console.WriteLine("master after branch 1");
             Console.WriteLine("branch 1 feature");
+
+            Console.WriteLine("added teamcity");
         }
     }
 }
